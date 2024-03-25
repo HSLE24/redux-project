@@ -1,3 +1,6 @@
+![image](https://github.com/HSLE24/redux-project/assets/4832903/a8d78129-9e03-4c62-9ae1-f6e389906bd3)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
